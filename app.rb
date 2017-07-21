@@ -2,7 +2,7 @@ require 'sinatra'
 
 # http://example.com/
 get '/' do
-  'Hellow world!'
+  '粗乃丸!'
 end
 
 # http://example.com/time
