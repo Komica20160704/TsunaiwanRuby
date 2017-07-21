@@ -1,8 +1,9 @@
 # ![TsunaiwanRuby](https://github.com/Komica20160704/TsunaiwanRuby/blob/master/public/icon.png "TsunaiwanRuby")
 # Install Ruby
   - [32-bit](https://github.com/oneclick/rubyinstaller2/releases/download/2.4.1-2/rubyinstaller-2.4.1-2-x86.exe)
-  - [64-bit](https://github.com/oneclick/rubyinstaller2/releases/download/2.4.1-2/rubyinstaller-2.4.1-2-x64.exe)
-**!!check this -> Add Ruby executables to your path**
+  - [64-bit](https://github.com/oneclick/rubyinstaller2/releases/download/2.4.1-2/rubyinstaller-2.4.1-2-x64.exe)
+  
+  **!!check this -> Add Ruby executables to your path**
 # Install Git
   - https://git-scm.com/download/win
 **!!check this -> Run Git from the Windows Command Prompt**
