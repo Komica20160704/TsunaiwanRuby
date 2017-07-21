@@ -32,7 +32,7 @@ $ git -v
 $ heroku version
 
 Download project base files
-***************
+https://test-0722.herokuapp.com/sinatra-sample.zip
 *Put them into the floder
 -[the floder you created]
 |-views
@@ -51,7 +51,7 @@ Login heroku
 $ heroku login
 Enter your Heroku credentials:
 Email: xxxxxx@xxxxx.com
-Password: *************
+Password: ************
 Logged in as xxxxxx@xxxxx.com
 
 Create app on heroku
