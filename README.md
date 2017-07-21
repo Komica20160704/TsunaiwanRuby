@@ -28,12 +28,14 @@ $ heroku version
 # Download project base files
 - [sinatra-sample.zip](https://test-0722.herokuapp.com/sinatra-sample.zip)
 - \*Put them into the floder
-    `-[the floder you created]`
-    `|--views                 `
-    `| |--time.erb            `
-    `|--app.rb                `
-    `|--config.ru             `
-    `|--Gemfile               `
+  ```
+  -[the floder you created]
+  |--views                 
+  | |--time.erb            
+  |--app.rb                
+  |--config.ru             
+  |--Gemfile               
+  ```
 # Install bundle (ruby library)
     $ gem install bundle
 # Use bundle to install other gems
