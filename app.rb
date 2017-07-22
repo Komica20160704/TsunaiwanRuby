@@ -2,7 +2,7 @@ require 'sinatra'
 
 # http://example.com/
 get '/' do
-  '粗乃丸!'
+  send_file 'public/just-do-it.html'
 end
 
 # http://example.com/time
